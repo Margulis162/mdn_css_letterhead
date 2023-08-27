@@ -50,6 +50,9 @@ h1 {
   padding: 44px 0;
   color: white;
   text-shadow: 1px 1px 1px black;
+  background-image: url(assets/logo.png);
+  filter: drop-shadow(6px 6px 10px rgb(135, 133, 133));
+
 }
 
 /* Your CSS below here */
